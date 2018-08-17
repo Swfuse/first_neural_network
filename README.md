@@ -1,1 +1,3 @@
-# first_neural_network
+# My first neural network
+
+Recognize handwrite numbers
